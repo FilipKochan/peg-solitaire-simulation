@@ -1,0 +1,3 @@
+/home/filip/projects/sirky/cmake-build-debug/CMakeFiles/sirky.dir
+/home/filip/projects/sirky/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/filip/projects/sirky/cmake-build-debug/CMakeFiles/rebuild_cache.dir
